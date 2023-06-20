@@ -1,0 +1,12 @@
+/* 強制的にフォントを明朝体へ変更する */
+/* Force font change to serif */
+
+*, *:before, *:after, input, button, textarea, select, input[type=file] {
+  font-family: serif !important;
+}
+
+input[type=button], input[type=submit],
+input[type=file]::-webkit-file-upload-button {
+  font-family: serif !important;
+  appearance: button !important;
+}
