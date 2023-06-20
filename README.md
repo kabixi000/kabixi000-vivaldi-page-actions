@@ -10,6 +10,7 @@ My custom Vivaldi page actions.
 
 ## 使用方法
 下部ツールバーの `<>` アイコンからカスタムページアクションを選択する
+
 各カスタムページアクションの機能は、それぞれのファイル内のコメントに記載
 
 ## 注意点
@@ -26,6 +27,7 @@ Store in the following directory:
 
 ## Usage
 Select the custom page action from the `<>` icon on the bottom toolbar.
+
 The functions of each custom page action are described in the comments within their respective files.
 
 ## Note
